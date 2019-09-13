@@ -16,3 +16,7 @@ Front-end (JavaScript, jQuery, AJAX, Jinja):
 2) renders current user’s portfolio of stocks using Jinja; 
 3) renders information about a stock price using Jinja; 
 4) renders history of a user’s transactions using Jinja.
+
+
+Based on CS50 Finance
+https://docs.cs50.net/2017/ap/problems/finance/finance.html
